@@ -1,4 +1,5 @@
 .idea/
+.static/
 .venv/
 __pycache__/
 
